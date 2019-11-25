@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jun  9 15:10:34 2019
+
+@author: Leonid
+"""
+
+{
+    "sender": "Alice"
+    "receiver": "Bob"
+    "amount": 1
+}

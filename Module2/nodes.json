@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jun  9 15:07:55 2019
+
+@author: Leonid
+"""
+
+{
+    "nodes": ["http://127.0.0.1:5001",
+              "http://127.0.0.1:5002",
+              "http://127.0.0.1:5003"]
+}
